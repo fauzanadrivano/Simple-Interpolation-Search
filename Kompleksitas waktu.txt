@@ -1,0 +1,8 @@
+Interpolation Search
+
+O (log(log n))
+
+Binary Search
+
+O (log n)
+
